@@ -9,3 +9,5 @@
 ## here it's
 
 <img  src="./Images/slider.gif"/>
+
+[visit](https://nidhisharma63.github.io/slider/)
