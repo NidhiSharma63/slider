@@ -47,7 +47,6 @@ dots.forEach((dot,i)=>{
 prevBtn.addEventListener('click',()=>{
   if(index===0) return index;
   index--;
-  console.log(index)
   removeDotsOpacity();
   dots[index].style.opacity='1'
   moveSlide();
